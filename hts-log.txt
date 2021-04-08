@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 Apr 2021 21:04:29 at https://mblt.ru +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns0u1%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mblt.ru -O1 "C:\Users\yn\OneDrive\Desktop\sites\mblt" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:04:30	Warning: 	Found for https://mblt.ru/
+21:04:30	Warning: 	File has moved from https://mblt.ru/ to https://mblt.ru/en
+21:04:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mblt.ru/assets/application-6c728ce9a79fd9e483efd01c39ef4a5e6c34fd121a2087e305f570ae418675c2.js (from https://mblt.ru/en)
+21:04:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mblt.ru/assets/icomoon-1e32183c9ef7bf56bb412883df35dc2e2718a0dc4bf5c9acea7efb7498772e52.eot?laps95 (from https://mblt.ru/assets/application-acc48a9d9545d84ab7644ac3913df11e5bf867e8f83dd0b179b80fb6cc89a765.css)
+21:04:58	Error: 	"Not Found" (404) at link https://mblt.ru/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:04:58	Error: 	"Not Found" (404) at link https://mblt.ru/en/info@mblt.ru (from https://mblt.ru/en/code-of-conduct)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 83 links scanned, 78 files written (14529875 bytes overall) [13904164 bytes received at 479453 bytes/sec], 1041704 bytes transferred using HTTP compression in 22 files, ratio 36%, 4.6 requests per connection
+(2 errors, 4 warnings, 0 messages)

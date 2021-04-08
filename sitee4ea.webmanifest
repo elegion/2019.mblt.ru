@@ -1,0 +1,19 @@
+{
+    "name": "MBLT",
+    "short_name": "MBLT",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png?v=lk9yl7GywE",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png?v=lk9yl7GywE",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#00aeef",
+    "background_color": "#00aeef",
+    "display": "standalone"
+}
